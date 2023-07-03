@@ -1,2 +1,2 @@
 # ProjetoRestaurante
- Calcular gorjeta
+ Calcular comanda
